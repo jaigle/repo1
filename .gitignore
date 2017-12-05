@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ApiLayer/bin
+/ApiLayer/obj/Debug
+/BLL/bin/Debug/netstandard2.0
+/BLL/obj
+/DAL/bin/Debug/netstandard2.0
+/DAL/obj
+/packages
+/Test.API/bin/Debug/netcoreapp2.0
+/Test.API/obj
+/Test.Bll.Interfaces/bin/Debug/netstandard2.0
+/Test.Bll.Interfaces/obj
+/Test.Entities/bin/Debug/netstandard2.0
+/Test.Entities/obj
+/Test.Repository/bin/Debug/netstandard2.0
+/Test.Repository/obj
+/Test.Repository.Interfaces/bin/Debug/netstandard2.0
+/Test.Repository.Interfaces/obj
+/UnitTestProject1/bin/Debug
+/UnitTestProject1/obj/Debug
